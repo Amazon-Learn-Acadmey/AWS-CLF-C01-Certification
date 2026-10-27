@@ -68,6 +68,5 @@ This is a suggested learning progression, not a mandatory certification sequence
 
 Combine official AWS learning materials with foundational cloud study and practical exploration of AWS services.
 
-- **Official AWS Resources**: Review the [AWS Certified Cloud Practitioner page](https://aws.amazon.com/certification/certified-cloud-practitioner/) and the [current CLF-C02 exam guide](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html). Use the current guide if preparing for the active exam version.
 - **CertsGate**: Explore [CLF-C01 certification preparation resources](https://certsgate.com/exams/amazon/clf-c01) for supplementary study materials and practice questions.
 - **Practical AWS Study**: Use the [AWS Skill Builder](https://skillbuilder.aws/) learning platform and AWS documentation to explore core services, cloud security, pricing, and common cloud use cases.
